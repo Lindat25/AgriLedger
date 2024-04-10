@@ -1,0 +1,1351 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Socialme | social media marketing agency template",
+    "page_builder": "elementor",
+    "kit_version": "6.1.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/www.wpaperagency.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "newsletterform",
+            "screenshot": "screenshots\/newsletterform.jpg",
+            "source": "templates\/newsletterform.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/newsletterform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single-post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "contact-form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/www.wpaperagency.com\/socialme\/template-kit\/error-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.9.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.10",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.1.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "SiteLOGO.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/SiteLOGO.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "header"
+                }
+            ],
+            "filesize": 3908,
+            "dimensions": [
+                545,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "pattern.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/pattern-800x434.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 490,
+            "dimensions": [
+                1860,
+                1008
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "sskoo-23.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/sskoo-23-800x689.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 58812,
+            "dimensions": [
+                822,
+                708
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "SiteLOGOwhite.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/SiteLOGOwhite.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3905,
+            "dimensions": [
+                545,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "company_logo.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 3278,
+            "dimensions": [
+                500,
+                165
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "company_logo-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3453,
+            "dimensions": [
+                500,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "company_logo-2.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2821,
+            "dimensions": [
+                500,
+                122
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "company_logo-4.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 3701,
+            "dimensions": [
+                500,
+                132
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "hero_insta-post-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/hero_insta-post-1-800x1175.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 84461,
+            "dimensions": [
+                937,
+                1376
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portrait-of-cheerful-european-female-with-satisfie-2021-08-31-04-21-52-utc-1-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/portrait-of-cheerful-european-female-with-satisfie-2021-08-31-04-21-52-utc-1-1-800x791.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 430777,
+            "dimensions": [
+                1200,
+                1186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "Instagram-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/Instagram-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "blog"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "contact"
+                }
+            ],
+            "filesize": 16407,
+            "dimensions": [
+                290,
+                291
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1140867304675284849"
+        },
+        {
+            "filename": "Twitter.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/Twitter.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "blog"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "contact"
+                }
+            ],
+            "filesize": 8926,
+            "dimensions": [
+                221,
+                218
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1140867304675284849"
+        },
+        {
+            "filename": "Facebook-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/Facebook-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "blog"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "contact"
+                }
+            ],
+            "filesize": 9071,
+            "dimensions": [
+                209,
+                207
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1140867304675284849"
+        },
+        {
+            "filename": "icons06.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/icons06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 53469,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "noise.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/noise-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 306678,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "icons02.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/icons02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 31180,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "icons04.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/icons04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 30290,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "dashedLinesNeutral.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/dashedLinesNeutral.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2403,
+            "dimensions": [
+                597,
+                328
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "icons03.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/icons03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 22731,
+            "dimensions": [
+                393,
+                393
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "sskoo.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/sskoo.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 30756,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "icons01.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/icons01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "blog"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single-post"
+                }
+            ],
+            "filesize": 24511,
+            "dimensions": [
+                360,
+                369
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1092660952444129896"
+        },
+        {
+            "filename": "dashedLinesBLACK.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/dashedLinesBLACK.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "contact"
+                }
+            ],
+            "filesize": 2610,
+            "dimensions": [
+                646,
+                355
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero_insta-post.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/hero_insta-post-800x1175.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 48353,
+            "dimensions": [
+                937,
+                1376
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "teaching-education-and-university-lifestyle-conce-2022-10-07-00-25-58-utc-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/teaching-education-and-university-lifestyle-conce-2022-10-07-00-25-58-utc-1-800x1217.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 653399,
+            "dimensions": [
+                1200,
+                1826
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teaching-education-and-university-lifestyle-concep-BR59DUP"
+        },
+        {
+            "filename": "sskoo-1.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/sskoo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 49854,
+            "dimensions": [
+                600,
+                565
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/file\/bGnFAfd0rcXgVHxp7IL3Lh\/3D%E5%B0%8F%E5%9B%BE%E6%A0%87-(Community)?node-id=0%3A1&t=vkbpH9eWx6jvxXKQ-1"
+        },
+        {
+            "filename": "YouTube.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/YouTube.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 9577,
+            "dimensions": [
+                254,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1140867304675284849"
+        },
+        {
+            "filename": "clientIMG03.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/clientIMG03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 65603,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "Instagram2.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/Instagram2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                }
+            ],
+            "filesize": 20401,
+            "dimensions": [
+                302,
+                302
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1140867304675284849"
+        },
+        {
+            "filename": "neutral-Img04.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/neutral-Img04-800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 132026,
+            "dimensions": [
+                1600,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-pretty-spectacled-businesswoman-smiling-and--H82YY44"
+        },
+        {
+            "filename": "neutral-Img03.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/neutral-Img03-800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "service"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 140716,
+            "dimensions": [
+                1600,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/efficiency-of-the-team-is-efficiency-of-the-busine-CQ38CWE"
+        },
+        {
+            "filename": "company_logo-3.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 4514,
+            "dimensions": [
+                500,
+                145
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "company_logo-5.png",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/company_logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 3648,
+            "dimensions": [
+                500,
+                148
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.figma.com\/community\/file\/1159710650809705970"
+        },
+        {
+            "filename": "project02.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/project02-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 253208,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IyaNci0CyRk"
+        },
+        {
+            "filename": "project05.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/project05-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 176716,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ypeZtZBUW6E"
+        },
+        {
+            "filename": "project06.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/project06-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service-details"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 200792,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/E6XStmd5wfk"
+        },
+        {
+            "filename": "project01.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/project01-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 169146,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/T6KDeaNSlQA"
+        },
+        {
+            "filename": "clientIMG01.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/clientIMG01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 41592,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "clientIMG02.jpg",
+            "thumbnail_url": "https:\/\/www.wpaperagency.com\/socialme\/wp-content\/uploads\/sites\/8\/2022\/12\/clientIMG02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "testimonials"
+                }
+            ],
+            "filesize": 39149,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        }
+    ]
+}

@@ -1,0 +1,951 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Butax - Bookkeeping & Tax Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/eightheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Off Canvas Content",
+            "screenshot": "screenshots\/block-off-canvas-content.jpg",
+            "source": "templates\/block-off-canvas-content.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/block-off-canvas-content\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Page",
+            "screenshot": "screenshots\/blog-page.jpg",
+            "source": "templates\/blog-page.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/blog-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Subscribe Form",
+            "screenshot": "screenshots\/metform-subscribe-form.jpg",
+            "source": "templates\/metform-subscribe-form.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/metform-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Client Reviews",
+            "screenshot": "screenshots\/client-reviews.jpg",
+            "source": "templates\/client-reviews.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/client-reviews\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Gallery",
+            "screenshot": "screenshots\/our-gallery.jpg",
+            "source": "templates\/our-gallery.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/our-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Plans",
+            "screenshot": "screenshots\/our-plans.jpg",
+            "source": "templates\/our-plans.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/our-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Service",
+            "screenshot": "screenshots\/detail-service.jpg",
+            "source": "templates\/detail-service.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/detail-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Question Form",
+            "screenshot": "screenshots\/metform-question-form.jpg",
+            "source": "templates\/metform-question-form.json",
+            "preview_url": "https:\/\/eightheme.com\/butax\/template-kit\/metform-question-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.14.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "business-asian-woman-or-accountant-bookkeeper-working-on-calculator-to-calculate-business-data-.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/business-asian-woman-or-accountant-bookkeeper-working-on-calculator-to-calculate-business-data--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-plans.json",
+                    "name": "Our Plans"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 129082,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RCHSLLJ"
+        },
+        {
+            "filename": "budget-planning-bookkeeping-accounting-concept.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/budget-planning-bookkeeping-accounting-concept-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-plans.json",
+                    "name": "Our Plans"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 165426,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QTNWDG9"
+        },
+        {
+            "filename": "attentive-female-bookkeeper-check-accounts-bills-.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/attentive-female-bookkeeper-check-accounts-bills--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 156073,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TQSU8MB"
+        },
+        {
+            "filename": "business-woman-joyful-smiling-bookkeeper-s-standing-in-the-working-office.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/business-woman-joyful-smiling-bookkeeper-s-standing-in-the-working-office-800x1156.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 150622,
+            "dimensions": [
+                1384,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDXH2V"
+        },
+        {
+            "filename": "bookkeeping.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/bookkeeping-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 149607,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6SAPXCE"
+        },
+        {
+            "filename": "portrait-of-bookkeeper-man-holding-cup-of-coffee-standing-in-startup-company-office.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/portrait-of-bookkeeper-man-holding-cup-of-coffee-standing-in-startup-company-office-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 138881,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X44FN2Q"
+        },
+        {
+            "filename": "home-bookkeeping.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/home-bookkeeping-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-plans.json",
+                    "name": "Our Plans"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 103597,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D9746L3"
+        },
+        {
+            "filename": "close-up-view-of-bookkeeper-or-financial-inspector-hands-making-report-calculating-or-checking.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/close-up-view-of-bookkeeper-or-financial-inspector-hands-making-report-calculating-or-checking-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 90507,
+            "dimensions": [
+                2000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VGDB58V"
+        },
+        {
+            "filename": "businessman-doing-bookkeeping-while-owning-coffee-shop.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/businessman-doing-bookkeeping-while-owning-coffee-shop-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 126942,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q6CJNNY"
+        },
+        {
+            "filename": "cropped-shot-of-unknown-accountant-and-bookkeeper-makes-audit-of-expenses-works-with-financial.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/cropped-shot-of-unknown-accountant-and-bookkeeper-makes-audit-of-expenses-works-with-financial-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 143959,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AFQLW78"
+        },
+        {
+            "filename": "business-woman-at-her-desk-does-the-bookkeeping-settles-bills-and-controls-the-business.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/business-woman-at-her-desk-does-the-bookkeeping-settles-bills-and-controls-the-business-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/blog-page.json",
+                    "name": "Blog Page"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 175551,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4VYLHC8"
+        },
+        {
+            "filename": "business-asian-woman-or-accountant-bookkeeper-working-on-calculator-to-calculate-business-data-1-1.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/business-asian-woman-or-accountant-bookkeeper-working-on-calculator-to-calculate-business-data-1-1-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 123033,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DPZ75SC"
+        },
+        {
+            "filename": "Butax.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/Butax.png",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                },
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                }
+            ],
+            "filesize": 3525,
+            "dimensions": [
+                557,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-up-accountant-banker-or-bookkeeper-making-calculations-with-calculator-.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/close-up-accountant-banker-or-bookkeeper-making-calculations-with-calculator--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 77754,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MX5CYX6"
+        },
+        {
+            "filename": "woman-laptop-and-stress-with-flying-paper-anxiety-and-burnout-with-404-technology-glitch-in-a-bus.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/woman-laptop-and-stress-with-flying-paper-anxiety-and-burnout-with-404-technology-glitch-in-a-bus-800x482.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 106640,
+            "dimensions": [
+                2000,
+                1205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JCNYPFQ"
+        },
+        {
+            "filename": "close-up-view-of-bookkeeper-or-financial-inspector-hands-making-report-.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/close-up-view-of-bookkeeper-or-financial-inspector-hands-making-report--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/client-reviews.json",
+                    "name": "Client Reviews"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 100244,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZKGFK9P"
+        },
+        {
+            "filename": "account-assets-audit-bank-bookkeeping-finance-concept.jpg",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/account-assets-audit-bank-bookkeeping-finance-concept-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-plans.json",
+                    "name": "Our Plans"
+                }
+            ],
+            "filesize": 192327,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RKC25L3"
+        },
+        {
+            "filename": "logoipsum-280-2.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/logoipsum-280-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 529,
+            "dimensions": [
+                78,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-282-3.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/logoipsum-282-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 322,
+            "dimensions": [
+                52,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-298.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/logoipsum-298.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 706,
+            "dimensions": [
+                40,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-284-2.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/logoipsum-284-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1347,
+            "dimensions": [
+                70,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-299.png",
+            "thumbnail_url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/logoipsum-299.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 591,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

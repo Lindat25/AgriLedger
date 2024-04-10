@@ -1,0 +1,164 @@
+{
+    "version": "0.4",
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7d4adfd8",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 900,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "300",
+                    "right": "30",
+                    "bottom": "100",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "250",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "id": 785,
+                    "url": "https:\/\/eightheme.com\/butax\/wp-content\/uploads\/sites\/33\/2023\/07\/woman-laptop-and-stress-with-flying-paper-anxiety-and-burnout-with-404-technology-glitch-in-a-bus.jpg",
+                    "alt": "Woman, laptop and stress with flying paper, anxiety and burnout with 404 technology glitch in a bus",
+                    "source": "library",
+                    "size": ""
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "-200",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=4da9a17"
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "71edb17a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "29abeab0",
+                            "settings": {
+                                "title": "404",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=5898891",
+                                    "title_color": "globals\/colors?id=9c764db"
+                                },
+                                "header_size": "h1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "43084f68",
+                            "settings": {
+                                "title": "Page Not Found",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=db48b8b",
+                                    "title_color": "globals\/colors?id=ca827c8"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "69bc0118",
+                            "settings": {
+                                "editor": "<p>Opss... Something Went Wrong<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=fdf12ae",
+                                    "typography_typography": "globals\/typography?id=3be2057"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4fb630ea",
+                            "settings": {
+                                "text": "Back to Home",
+                                "background_background": "",
+                                "hover_animation": "float",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "background_color": ""
+                                },
+                                "selected_icon": {
+                                    "value": "icon icon-arrow-left",
+                                    "library": "ekiticons"
+                                },
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
